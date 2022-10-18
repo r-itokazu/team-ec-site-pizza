@@ -1,5 +1,5 @@
-# 開発概要
-ECサイトについて
+## 開発概要
+### ECサイトについて
 
 JavaScript(TypeScript)+ Next.jsで作成した
 
@@ -12,6 +12,6 @@ JavaScript(TypeScript)+ Next.jsで作成した
 
 - ショッピングカート画面 (orderConfirmation.tsx)
 ![カート](/public/CART.png)
-## ユースケース図
+### ユースケース図
 ![ユースケース図](/public/ユースケース図.png)
 
