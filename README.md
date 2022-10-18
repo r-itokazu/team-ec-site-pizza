@@ -10,6 +10,6 @@ JavaScript(TypeScript)+ Next.jsで作成した
 ![商品詳細画面](/public/ITEM.png)
 - ショッピングカート画面 (orderConfirmation.tsx)
 ![カート](/public/CART.png)
-## アーキテクチャー図
+## ユースケース図
 ![ユースケース図](/public/ユースケース図.png)
 
