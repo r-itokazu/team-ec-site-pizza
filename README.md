@@ -4,7 +4,7 @@ ECサイトについて
 JavaScript(TypeScript)+ Next.jsで作成した
 
 架空のピザ屋のECサイトです。
-- TOP画面
+- TOP画面[/items]
 ![一覧画面](/public/TOP.png) 
 - 商品詳細画面
 ![商品詳細画面](/public/ITEM.png)
