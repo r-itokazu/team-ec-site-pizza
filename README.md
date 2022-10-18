@@ -1,5 +1,6 @@
 # 開発概要
 ECサイトについて
+JavaScript(TypeScript)+ Next.jsで作成した
 架空のピザ屋のECサイトです。
 - TOP画面
 ![一覧画面](/public/TOP.png) 
